@@ -146,8 +146,8 @@ h2 {
   }
 }
 
-/*
 .attribution {
+  color: black;
   justify-self: flex-end;
   font-size: 11px;
   text-align: center;
@@ -155,4 +155,3 @@ h2 {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-*/
